@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[3],{370:function(e,t,n){"use strict";n.r(t);var l=n(0).a.extend({}),o=n(50),component=Object(o.a)(l,(function(){var e=this.$createElement,t=this._self._c||e;return t("div",{staticClass:"px-8"},[t("the-profile")],1)}),[],!1,null,null,null);t.default=component.exports;installComponents(component,{TheProfile:n(237).default})}}]);
